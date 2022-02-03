@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "laksh sir",
+      "email": "jain45@gmail.com",
+      "mobile": "76535798765"
+    },
+    {
+      "id": 4,
+      "name": "hugughjhjh",
+      "email": "ghgygyhg",
+      "mobile": "452520254415252"
+    },
+    {
+      "id": 6,
+      "name": "shru",
+      "email": "jhgfc",
+      "mobile": "434454664"
+    },
+    {
+      "id": 7,
+      "name": "asdre",
+      "email": "abcd@gmail.com",
+      "mobile": "655655665"
+    }
+  ],
+  "Signup": [
+    {
+      "name": "gtyhgf",
+      "email": "asd@gmail.com",
+      "password": "12343212",
+      "id": 1
+    },
+    {
+      "name": "Shruti",
+      "email": "abc@gmail.com",
+      "password": "123456789",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
